@@ -1,0 +1,36 @@
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'email' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 57
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'balance' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 61
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 7
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 8
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'level' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 35
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/index.php on line 80
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/index.php on line 81
+[11-Nov-2020 13:44:00 Africa/Lagos] PHP Notice:  Trying to get property 'join_date' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/index.php on line 93
+[11-Nov-2020 13:44:21 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:44:21 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:44:21 Africa/Lagos] PHP Notice:  Trying to get property 'email' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 57
+[11-Nov-2020 13:44:21 Africa/Lagos] PHP Notice:  Trying to get property 'balance' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 61
+[11-Nov-2020 13:44:21 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 7
+[11-Nov-2020 13:44:21 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 8
+[11-Nov-2020 13:44:21 Africa/Lagos] PHP Notice:  Trying to get property 'level' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 35
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'email' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 57
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'balance' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 61
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 7
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 8
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'level' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 35
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/index.php on line 80
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/index.php on line 81
+[11-Nov-2020 13:44:47 Africa/Lagos] PHP Notice:  Trying to get property 'join_date' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/index.php on line 93
+[11-Nov-2020 13:45:18 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:45:18 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 56
+[11-Nov-2020 13:45:18 Africa/Lagos] PHP Notice:  Trying to get property 'email' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 57
+[11-Nov-2020 13:45:18 Africa/Lagos] PHP Notice:  Trying to get property 'balance' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/header.php on line 61
+[11-Nov-2020 13:45:18 Africa/Lagos] PHP Notice:  Trying to get property 'full_name' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 7
+[11-Nov-2020 13:45:18 Africa/Lagos] PHP Notice:  Trying to get property 'username' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 8
+[11-Nov-2020 13:45:18 Africa/Lagos] PHP Notice:  Trying to get property 'level' of non-object in /home/goldmxgi/perfectfxoptiontrade.com/account/admin/sidebar.php on line 35
+[11-Nov-2020 14:26:10 Africa/Lagos] PHP Notice:  Undefined variable: email in /home/goldmxgi/perfectfxoptiontrade.com/core/mailer.php on line 247
+[12-Nov-2020 05:10:46 Africa/Lagos] PHP Notice:  Undefined variable: email in /home/goldmxgi/perfectfxoptiontrade.com/core/mailer.php on line 247

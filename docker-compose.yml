@@ -1,0 +1,7 @@
+
+services:
+  dashboard:
+    image: timelineinvestment-dashboard:latest
+    restart: always
+    ports:
+      - "80:80"

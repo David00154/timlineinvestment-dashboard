@@ -1,0 +1,151 @@
+/*preloader starts*/
+#preloader {
+    z-index: 99999999999 !important;
+    margin:25px;
+}
+.KCEwhiteLoader {
+    margin: 0 auto;
+    margin-top: -15px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    left: 50%;
+    -webkit-animation: circle infinite .95s linear;
+    -moz-animation: circle infinite .95s linear;
+    -o-animation: circle infinite .95s linear;
+    animation: circle infinite .95s linear;
+    border: 2px solid #ffffff;
+    border-top-color: rgba(0, 0, 0, 0.2);
+    border-right-color: rgba(0, 0, 0, 0.2);
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    border-radius: 100%;
+}
+.KCEblueLoader {
+    margin: 0 auto;
+    /*margin-top: -15px;*/
+    width: 30px;
+    height: 30px;
+    -webkit-animation: circle infinite .95s linear;
+    -moz-animation: circle infinite .95s linear;
+    -o-animation: circle infinite .95s linear;
+    animation: circle infinite .95s linear;
+    border: 2px solid #1c5dab;
+    border-top-color: rgba(0, 0, 0, 0.2);
+    border-right-color: rgba(0, 0, 0, 0.2);
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    border-radius: 100%;
+}
+@keyframes circle {
+    0% {
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(0);
+    -o-transform: rotate(0);
+    transform: rotate(0);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+/*preloader ends*/
+
+/*others*/
+.img-bordered {
+    border: 3px solid #E8E8E8;
+    padding: 2px;
+    border-radius: 50%;
+}
+/*#coin-exchange-box .input-item{
+    padding-bottom:0;
+}
+@media(max-width: 769px){
+    #coin-exchange-box .input-item{
+        margin-top: 20px;
+    }
+    #coin-exchange-box .send-receive{
+        width: 145px;
+        margin: 5px;
+        padding: 3px;
+    }
+}*/
+
+#exchangeForm .token-pay-amount {
+    width: 100%;
+}
+.token-balance-icon img {
+    width: 35px;
+    line-height: 50px;
+}
+.table th, .table td {
+    border-bottom: 1px solid #e3ebf3;
+}
+.table th, .table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #626E82;
+}
+.table thead th{
+    text-transform:uppercase;
+    border-bottom: 2px solid #dee2e6;
+    border-top: none;
+    white-space:nowrap;
+    font-size:12px;
+    font-weight:700;
+    color:#2c80ff
+}
+.trade-invest .nav-tabs-line .nav-item{
+    padding:0 40px 0 0;
+    margin: 0 auto;
+}
+.trade-invest .nav-tabs-line {
+    margin-bottom: 5px;
+}
+.btn{
+    /*min-width: 10px;*/
+}
+/*others end*/
+
+/*bounce logo*/
+.logoKCE {
+    position: relative;
+    animation-name: KCEAnimation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes KCEAnimation {
+    0% {top:0px;}
+    50% {top:10px;}
+    100%{top:0px;}
+}
+/*bounce logo ends */
+
+/*trade-invest page*/
+.trade-invest .table-responsive{
+    max-height: 400px;
+}
+
+@media(max-width: 991px){
+    .desktop-only{
+        display: none;
+    }
+}
+.token-pay-amount {
+    position: relative;
+    align-self: center;
+    width: unset;
+}
+.polaroid {
+    box-shadow: 0 25px 30px -13px rgba(40, 40, 40, 0.4);
+    margin-bottom: 35px;
+}
